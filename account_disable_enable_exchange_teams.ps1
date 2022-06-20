@@ -1,5 +1,5 @@
 #Script para bloqueio/desbloqueio de usuarios O365 PowerShell
-#Autor: Izael Magalhaes
+#Autores: Izael Magalhaes / Jhonatan Teodoro / Yuri Alves
 #Modo de uso: script.ps1 arg0 arg1 arg2
 #arg0:bloqueio ou desbloqueio (0 - bloqueio/ 1 - Desbloqueio)
 #arg1:se é lista ou individual (0 - unico / 1 - lista)
